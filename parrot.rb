@@ -1,4 +1,4 @@
-def parrot(sentence = "Squawk")
+def parrot(sentence = "Squawk!")
   puts "#{sentence}"
   sentence
 end
